@@ -14,7 +14,11 @@ Membuat Website Toko Online dengan PHP Naitive
 
 ![ss login user](https://user-images.githubusercontent.com/108383702/210096519-4c163171-bbed-4b0f-8f33-004ea3db85a3.png)
 
+- Halaman Registrasi 
+
+![ss registrasi user](https://user-images.githubusercontent.com/108383702/210096851-9a17de81-feaa-4829-9ed3-834b9efe50ed.png)
+
 - Halaman Home 
 ![ss dashboard user](https://user-images.githubusercontent.com/108383702/210096779-72b71ff7-7aad-4d94-8a0f-5a51e11ee66f.png)
 
-- Halman Brand 
+
