@@ -1,0 +1,12 @@
+{
+    "name": "toko-online/yoga-aditya",
+    "description": "Membuat Project Toko Laptop Online",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Yoga Aditya",
+            "email": "yoga19201@gmail.com"
+        }
+    ],
+    "require": {}
+}

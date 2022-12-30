@@ -1,0 +1,114 @@
+/* Index */
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: Arail, sans-serif;
+}
+a{
+	text-decoration: none;
+}
+ul{
+	list-style: none;
+}
+.active{
+	color: chartreuse;
+	text-decoration: underline;
+	font-weight: bold;
+
+}
+
+.navbar{
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: flex;
+	width: 100%;
+	align-items: center;
+	justify-content: space-between;
+	color: chartreuse;
+	background-color: whitesmoke;
+}
+.nav .ul .li{
+	display: block;
+}
+.nav-links{
+	display: flex;
+	align-items: center;
+	
+}
+.nav-links a{
+	background-color: whitesmoke;
+	color: black;
+	padding: 14px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+.nav-links a:hover{
+	background-color: chartreuse;
+	color: black;
+}
+
+.nav-links .active {
+	background-color: chartreuse;
+	color: black;
+}
+
+.nav-links{
+	background-color: chartreuse;
+	color: black;
+}
+.nav-btn{
+	background: transparent;
+	color: black;
+}
+header{
+	width: 100vw;
+	height: 100vh;
+	background-image: url('./img/header-bg.png');
+	background-position: bottom;
+	background-size: cover;
+	margin-top: 46px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.header-konten{
+	margin-bottom: 150px;
+	color: black;
+	text-align: center;
+}
+.header-konten h2{
+	font-size: 4vmin;
+}
+.garis{
+	width: 150px;
+	height: 4px;
+	background: chartreuse;
+	margin: 10px auto;
+	border-radius: 10px;
+}
+.garis-pemisah{
+	width: 1300px;
+	height: 2px;
+	background: grey;
+	margin: 10px auto;
+	border-radius: 10px;
+}
+.header-konten h1 {
+	font-size: 7vmin;
+	margin-top: 50px;
+	margin-bottom: 30px;
+}
+.btn{
+	padding: 8px 15px;
+	background: chartreuse;
+	border-radius: 30px;
+	color: black;
+}
+.main-content{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
