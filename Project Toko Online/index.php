@@ -12,7 +12,7 @@ if(!isset($_SESSION['login'])) {
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>SpecLap</title>
+	<title>Toko Online</title>
 	<link rel="stylesheet" type="text/css" href="./user/style.css">
 </head>
 <body>
